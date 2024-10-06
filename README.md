@@ -1,4 +1,4 @@
-<H3>NAME : Sanethosh U</H3>
+<H3>NAME : Santhosh U</H3>
 <H3>REGISTER NO : 212222240092</H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
